@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Mather",
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "slug": "mather-app-slug",
+    "orientation": "portrait",
+    "ios": {
+      "bundleIdentifier": "mather.selmanyalcin.mather",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "mather.selmanyalcin.mather",
+      "versionCode": 1,
+      "permissions": []
+    }
+  }
+}
